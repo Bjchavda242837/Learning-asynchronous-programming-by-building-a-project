@@ -39,16 +39,16 @@ async-await-version.js
 
 📚 Learning Journey : 
 
-🌀 1. Callbacks (callback-version.js)
+🌀 1. Callbacks (callback-version.js) ==> 
 Learn how to pass callbacks between async functions using setTimeout. See how deeply nested logic becomes unmanageable over time.
 
-🔗 2. Promises (promise-version.js)
+🔗 2. Promises (promise-version.js) ==> 
 Refactor your callbacks into Promises and use .then() and .catch() to handle flow and errors.
 
-🧱 3. Promise Chaining
+🧱 3. Promise Chaining ==> 
 See how you can cleanly chain multiple async operations step-by-step by returning Promises from .then() handlers.
 
-⚡ 4. Async/Await (async-await-version.js)
+⚡ 4. Async/Await (async-await-version.js) ==> 
 Write asynchronous code that looks synchronous, using async functions and await. Cleanest and most readable approach!
 
 🧪 Output Example
@@ -62,12 +62,11 @@ Order name : computer
 ✍️ How to Run
 
 Clone the repo:
-git clone https://github.com/Bjchavda242837/Learning-asynchronous-programming-by-building-a-project.git
-
-
+- git clone https://github.com/Bjchavda242837/Learning-asynchronous-programming-by-building-a-project.git
 
 Navigate to folder:
-cd Learning-asynchronous-programming-by-building-a-project
+- cd Learning-asynchronous-programming-by-building-a-project
+
 
 
 
