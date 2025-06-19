@@ -27,9 +27,14 @@ Instead of just reading theory, you'll **experience the evolution of async logic
   
  🧱 Project Structure
 
-├── callback-version.js         # 🌀 Callback Hell Demo
-├── promise-version.js          # 🔗 Promise Chaining
-├── async-await-version.js      # ⚡ Async/Await Clean Code
+ callback-version.js        
+ 🌀 Callback Hell Demo
+
+ promise-version.js         
+ 🔗 Promise Chaining
+
+async-await-version.js    
+⚡ Async/Await Clean Code
 
 
 📚 Learning Journey : 
