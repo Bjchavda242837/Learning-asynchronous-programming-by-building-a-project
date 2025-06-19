@@ -64,21 +64,17 @@ Order name : computer
 Clone the repo:
 git clone https://github.com/Bjchavda242837/Learning-asynchronous-programming-by-building-a-project.git
 
+
+
 Navigate to folder:
 cd Learning-asynchronous-programming-by-building-a-project
+
+
 
 Run each file:
 node callback-version.js
 node promise-version.js
 node async-await-version.js
-
-🔥 Bonus Challenges
-
- Add simulated random failures to practice .catch() and try/catch
- Use Promise.all() to fetch multiple APIs at once
- Visualize the flow in a browser (HTML/JS console)
- Turn this into a mini React app for real practice
-
 
 🧠 Key Concepts Covered
 
